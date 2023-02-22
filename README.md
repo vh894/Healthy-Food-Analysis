@@ -1,6 +1,6 @@
-#Healthy Food Analysis 
+# Healthy Food Analysis 
 
-##Introduction and Question Identification
+## Introduction and Question Identification
 
 This dataset contains the ratings, reviews, and nutritional values of dishes from the website food.com, an online community where individuals can upload their own recipes. 
 In the range of years that this dataset contains (2008 to present), there have been studies that show a increase amount of healthier diets because of growing awareness and social media (American Adults are Choosing Healthier Foods, Consuming Healthier Diets, Consumer trends shifting toward health and wellness, ADM finds, Influencer marketing and the rise of healthy eating habits, etc.). Healthy diets are essential for good health, nutrition, and boosting immunity. 
@@ -15,8 +15,8 @@ This column will be used to determine how healthy a recipe is.
 “ratings” (the rating given by the user out of five stars)
 This column will be analyzed to see how popular healthy recipes are.
 
-##Cleaning and EDA
+## Cleaning and EDA
 
-##Assessment of Missingness
+## Assessment of Missingness
 
-##Hypothesis Testing
+## Hypothesis Testing
