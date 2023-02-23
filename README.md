@@ -12,6 +12,7 @@ In the dataset, there are 234,429 responses to food.com recipes. We will be cent
 - “user_id” (the user number that left a rating)
 - “recipe_id“ (the recipe identification number)
 - “name” (the recipe name)
+
 The three columns above will be used for reference purposes.
 
 - “nutrition” (Nutrition information in the form [calories (#), total fat (PDV), sugar (PDV), sodium (PDV), protein (PDV), saturated fat (PDV), carbohydrates (PDV)] where PDV stands for “percentage of daily value”). This column will be used to determine how healthy a recipe is.
