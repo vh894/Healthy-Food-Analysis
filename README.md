@@ -17,6 +17,8 @@ This column will be analyzed to see how popular healthy recipes are.
 
 ## Cleaning and EDA
 
+<iframe src="assets/file-avpr.html" width=800 height=600 frameBorder=0></iframe>
+
 ## Assessment of Missingness
 
 ## Hypothesis Testing
