@@ -59,6 +59,8 @@ We wanted to see the relationship between the amount of calories a recipe had an
 <iframe src="assets/file-calories_and_rating.html" width=800 height=600 frameBorder=0></iframe>
 
 This grouped table displays data for each group of integer value ratings
+
+
 |   calories (#) |   total fat (PDV) |   sugar (PDV) |   sodium (PDV) |   protein (PDV) |   saturated fat (PDV) |   carbohydrates (PDV) |   healthy |
 |---------------:|------------------:|--------------:|---------------:|----------------:|----------------------:|----------------------:|----------:|
 |        463.345 |           37.1243 |       76.4471 |        45.19   |         29.85   |               45.88   |               15.1329 |  0.187143 |
