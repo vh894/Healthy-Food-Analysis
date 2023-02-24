@@ -1,4 +1,5 @@
 # Healthy Food Analysis 
+## By Esther Cho and Vanessa Hu
 
 ## Introduction and Question Identification
 
