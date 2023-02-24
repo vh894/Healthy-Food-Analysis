@@ -31,6 +31,8 @@ The three columns above will be used for reference purposes.
 
 <iframe src="assets/file-calories_and_rating.html" width=800 height=600 frameBorder=0></iframe>
 
+<iframe src="assets/file_pivot.html" width=800 height=600 frameBorder=0></iframe>
+
 
 ## Assessment of Missingness
 
