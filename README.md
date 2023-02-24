@@ -22,17 +22,23 @@ The three columns above will be used for reference purposes.
 
 <iframe src="assets/file-avg_rating.html" width=800 height=600 frameBorder=0></iframe>
 
+
 <iframe src="assets/file-calories.html" width=800 height=600 frameBorder=0></iframe>
+
 
 <iframe src="assets/file-healthy_and_rating.html" width=800 height=600 frameBorder=0></iframe>
 
+
 <iframe src="assets/file-calories_and_rating.html" width=800 height=600 frameBorder=0></iframe>
+
 
 ## Assessment of Missingness
 
 <iframe src="assets/file-reviews_missingness_1.html" width=800 height=600 frameBorder=0></iframe>
 
+
 <iframe src="assets/file-reviews_missingness_2.html" width=800 height=600 frameBorder=0></iframe>
+
 
 ## Hypothesis Testing
 
