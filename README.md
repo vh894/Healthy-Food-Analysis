@@ -20,8 +20,20 @@ The three columns above will be used for reference purposes.
 
 ## Cleaning and EDA
 
-<iframe src="assets/file-avpr.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="file-avg_rating.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="file-calories.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="file-healthy_and_rating.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="file-calories_and_rating.html" width=800 height=600 frameBorder=0></iframe>
 
 ## Assessment of Missingness
 
+<iframe src="file-reviews_missingness_1.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="file-reviews_missingness_2.html" width=800 height=600 frameBorder=0></iframe>
+
 ## Hypothesis Testing
+
+<iframe src="assets/file-hypothesis_testing.html" width=800 height=600 frameBorder=0></iframe>
