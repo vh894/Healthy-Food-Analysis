@@ -58,8 +58,14 @@ We wanted to see the relationship between the amount of calories a recipe had an
 
 <iframe src="assets/file-calories_and_rating.html" width=800 height=600 frameBorder=0></iframe>
 
-This grouped table displays data for each group of integer value ratings....
-<iframe src="assets/file_pivot.html" width=800 height=600 frameBorder=0></iframe>
+This grouped table displays data for each group of integer value ratings
+|   calories (#) |   total fat (PDV) |   sugar (PDV) |   sodium (PDV) |   protein (PDV) |   saturated fat (PDV) |   carbohydrates (PDV) |   healthy |
+|---------------:|------------------:|--------------:|---------------:|----------------:|----------------------:|----------------------:|----------:|
+|        463.345 |           37.1243 |       76.4471 |        45.19   |         29.85   |               45.88   |               15.1329 |  0.187143 |
+|        432.541 |           33.7407 |       70.995  |        35.9892 |         29.7432 |               45.2022 |               14.2486 |  0.18227  |
+|        459.962 |           33.2098 |       94.367  |        39.5927 |         32.5997 |               41.5364 |               16.274  |  0.166993 |
+|        428.62  |           31.8566 |       63.578  |        28.2143 |         35.1706 |               39.4801 |               13.7132 |  0.172237 |
+|        413.743 |           31.7462 |       62.5115 |        29.1608 |         32.5769 |               39.22   |               12.9443 |  0.17514  |
 
 
 ## Assessment of Missingness
